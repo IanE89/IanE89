@@ -1,7 +1,6 @@
 “The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust.” - Satoshi Nakamoto
 
 “As data and science become more accessible and more the production of software and AI, human creativity is becoming a more valuable commodity.”
-― Hendrith Vanlon Smith Jr
  
 Hi! I'm Ian, and my interests are in systems that make learning, creating, preserving our time, and socializing easier for the entire planet. I beleive the leading computer programming language will soon simply be the english language, and that artificial intelligence, alongisde permissionless money, will empower us all to accomplish anything, with an efficiency and ease-of-use that wasn't previously possible.
 
